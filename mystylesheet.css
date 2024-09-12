@@ -1,0 +1,16 @@
+img{
+	width:300px;
+}
+.redbox{
+	width:500px;
+	height:300px;
+	color:white;
+	background-color:rgb(32, 176, 10);
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bigtext{
+	font-size:50px;
+}
+#iddemo{
+	font-family:arial;
+}
